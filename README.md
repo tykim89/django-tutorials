@@ -5,4 +5,6 @@
 
 - 환경
   - python 3.6++
+  - pip-21.1.2
+  - django-2.0.0
   - sublime text3
